@@ -13,7 +13,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nenerower&langs_count=4&theme=tokyonight">
 </p>
 
+<!---
 <p align = "center">
   <img src="https://activity-graph.herokuapp.com/graph?username=nenerower&hide_title=true&bg_color=1A1B27&color=6FA4FC&point=38BDAE&line=BF91F3">
-</p> 
+</p>
+-->
 <hr>
